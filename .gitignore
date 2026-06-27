@@ -1,0 +1,17 @@
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+.venv/
+venv/
+ENV/
+
+# Fichiers de données de session locale (générés par l'application)
+session_resultats.json
+rapports/
+
+# Configuration d'IDEs (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
