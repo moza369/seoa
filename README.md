@@ -34,5 +34,5 @@ SÉOA est un système expert d'aide à la décision conçu avec **Tkinter** (int
 
 
 ## Video
-<video src="./assets/pocvideo.mp4" controls preload></video>
+<video src="./assets/pocvideo.gif" controls preload></video>
 
